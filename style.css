@@ -225,7 +225,7 @@ html {
   top: 0;
   left: 0;
   /*background-color: $red;*/
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/13/%E6%97%A5%E6%B2%BB%E6%99%82%E6%9C%9F%E5%8F%B0%E5%8C%97%E4%B8%89%E7%B7%9A%E8%B7%AF.jpg);
+  background-image: url(https://raw.githubusercontent.com/jkpy3900/Pictures/master/1980.jpeg);
   background-size: cover;
   background-attachment: fixed;
   width: 100vw;
